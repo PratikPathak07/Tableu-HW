@@ -1,1 +1,6 @@
 # Tableu-HW
+The first tab in the story contains the start location map with the data displayed based on popularity and use per location. The marks on the map are clickable and update the rest of the dashboard to include data based on only the selcted location. The end location map shows the distribution of the different end locations based on the selected start location. The pie chart shows the gender distrubution and the bar chart shows the number of records based on the duration of the bike rental. The second tab contains 4 bar charts that show Age and Day comapred to number of records and duration. It is surprising that duration distribution is almost completely consistent throughout age group. It is within expectations that most of the people who rent bikes are in the 21 to 40 age range. It is also surprising that day of the week does not affect the distribtion too much. The third tab shows solely the zipcode and popularity of the different sites. It seems that 07302 is the most popular within that area.
+
+
+Public Link:
+https://public.tableau.com/profile/pratik7894#!/vizhome/CitiBikeData_15793606347870/CitiBike?publish=yes
